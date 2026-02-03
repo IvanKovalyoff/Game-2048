@@ -26,8 +26,9 @@ It focuses on JavaScript fundamentals (game logic, DOM updates, state handling) 
 ## 🛠️ Tech Stack
 
 - **HTML5**
-- **CSS3**
+- **SCSS / CSS3**
 - **JavaScript (Vanilla)**
+- **Gulp-based tooling** (Mate Academy scripts)
 - **GitHub Pages** — deployment
 
 ---
@@ -44,12 +45,18 @@ It focuses on JavaScript fundamentals (game logic, DOM updates, state handling) 
 
 ## ⌨️ Controls
 
-- **Arrow keys** — move tiles up / down / left / right
+- **Arrow keys** — move tiles
+  up
+  down
+  left
+  right
 *(If you support mobile: swipe gestures can be added as a future improvement.)*
 
 ---
 
 ## 🏁 Getting Started (Local Setup)
+
+This project uses a gulp-based tooling setup (Mate Academy scripts) to compile SCSS and run linters.
 
 ### Option A — Open in browser
 If this project is plain HTML/CSS/JS:
@@ -57,6 +64,7 @@ If this project is plain HTML/CSS/JS:
    ```bash
    git clone https://github.com/IvanKovalyoff/Game-2048.git
    ```
+
 Open index.html in your browser.
 
 ---
@@ -64,8 +72,10 @@ Open index.html in your browser.
 ### Option B — npm (if used)
 If your project uses npm tooling:
 
+```bash
   npm install
   npm start
+```
 
 ---
 
@@ -77,7 +87,7 @@ If your project uses npm tooling:
  - Improve accessibility (focus states, ARIA labels)
 
 ## 📫 Contact
-Ivan Kovalyoff
+**Ivan Kovalyoff**
 GitHub: https://github.com/IvanKovalyoff
 LinkedIn:
 
