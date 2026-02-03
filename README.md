@@ -45,12 +45,9 @@ It focuses on JavaScript fundamentals (game logic, DOM updates, state handling) 
 
 ## ⌨️ Controls
 
-- **Arrow keys** — move tiles
-  up
-  down
-  left
-  right
-*(If you support mobile: swipe gestures can be added as a future improvement.)*
+- **Arrow keys** — move tiles up / down / left / right
+
+*(Touch controls for mobile can be added as a future improvement.)*
 
 ---
 
