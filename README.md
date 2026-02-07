@@ -85,8 +85,8 @@ If your project uses npm tooling:
 
 ## 📫 Contact
 **Ivan Kovalyoff**
-GitHub: https://github.com/IvanKovalyoff
-LinkedIn:
+ - GitHub: https://github.com/IvanKovalyoff
+ - LinkedIn: www.linkedin.com/in/ivan-kovalov-197759348
 
 ## 🏆 Why This Project Matters
 2048 is a great project to demonstrate practical JavaScript skills:
